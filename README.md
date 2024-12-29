@@ -1,6 +1,6 @@
 <h1>Hi! 👋 Welcome to my world</h1>
-<p>Just a student making an effort every day.</p>
-<h2>✒️ Tech Stack</h2>
+<p>Just a student making an effort every day 🔥.</p>
+<h2>🛠 Tech Stack</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -38,5 +38,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Heahaidu/Heahaidu/output/snake.svg" alt="Snake animation" />
 
 ###
