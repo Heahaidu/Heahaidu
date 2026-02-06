@@ -28,53 +28,53 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="32" alt="notion logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="32" alt="intellij logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="androidstudio logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="32" alt="githubactions logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="32" alt="kubernetes logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=spring" height="32" alt="spring logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="32" alt="jenkins logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=bash" height="32" alt="bash logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
 </div>
 
