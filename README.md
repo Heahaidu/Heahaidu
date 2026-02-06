@@ -86,7 +86,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/heahaidu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/461080271349874698" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
@@ -99,9 +99,12 @@
   </a>
 </div>
 
-<p>  <a href="https://www.linkedin.com/in/heahaidu/" target="_blank">
+<p>  
+  <a href="https://www.linkedin.com/in/heahaidu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+  </a>
+  <a href="https://soumyajit.vercel.app/" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ###
