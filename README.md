@@ -68,6 +68,7 @@
   <img src="https://skillicons.dev/icons?i=bash" height="48" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="48" alt="terraform logo"  />
 </div>
 
 ###
