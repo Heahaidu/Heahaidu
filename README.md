@@ -14,14 +14,6 @@
 
 ###
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
-
-###
-
-- 🙋‍♂️ All about me is at **[My Website](https://nguyenhaiduong-fcj-workshop.link/)**
-
-###
-
 <h2 align="left">🛠️ Technologies and Tools I use</h2>
 
 ###
